@@ -1,0 +1,10 @@
+{
+  "userName": "USERNAME",
+  "password": "PASSWORD",
+  "profileAddress": "http://178.236.33.130",
+  "unitSelectAddress": "http://178.236.33.130/strcss/ShowPreCSelsForm.php",
+  "lessons": [
+    { "lessonID": 412200, "code": 1 },
+    { "lessonID": 414007, "code": 1 }
+  ]
+}
